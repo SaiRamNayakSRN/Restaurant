@@ -1,3 +1,3 @@
 # Restaurant
 Restaurant Website :
-https://github.com/SaiRamNayakSRN/Restaurant/blob/main/Restaurant/index.html
+https://github.com/SaiRamNayakSRN/Restaurant/blob/main/index.html
